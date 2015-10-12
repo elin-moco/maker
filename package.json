@@ -14,6 +14,7 @@
   ],
   "license": "Apache License 2.0",
   "dependencies": {
+    "serialport-io": "0.1.7",
     "browserify-johnny-five": "0.0.2",
     "chrome-usb-serialport": "0.0.6"
   }

@@ -18,7 +18,7 @@
 
   run.addEventListener('click', function() {
     // XXX: Hacking way to lanuch Chrome API Proxy App.
-    document.querySelector('#setup').click();
+    // document.querySelector('#setup').click();
     // Create sandbox.
     var sandbox = document.querySelector('#sandbox');
     var result = document.querySelector('#result');
